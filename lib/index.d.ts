@@ -1,4 +1,2 @@
-export const pippo: "Hello, world!";
-import Button = require("./components/button/Button.js");
-export { Button };
+export * from "./components";
 //# sourceMappingURL=index.d.ts.map
